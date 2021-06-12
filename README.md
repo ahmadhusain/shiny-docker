@@ -1,3 +1,9 @@
+# Thank you - Success deployed :thumbsup:
+
+Terima kasih untuk tutorialnya. Mudah untuk diikuti. Pls cek hasilnya pada: http://27.112.79.114:3838/
+
+---------------
+
 # Deploying shiny Using Docker
 
 Repo ini berisi aplikasi sederhana menggunakan shiny apps. Bagi kalian yang ingin melakukan deployment shiny apps menggunakan docker bisa membaca langkah langkah dibawa ini
