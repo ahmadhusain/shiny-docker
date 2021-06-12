@@ -1,6 +1,6 @@
 # Thank you - Success deployed :thumbsup:
 
-Terima kasih untuk tutorialnya. Mudah untuk diikuti. Pls cek hasilnya pada: http://27.112.79.114:3838/
+Terima kasih untuk tutorialnya. Mudah untuk diikuti. Pls cek hasilnya: http://27.112.79.114:3838/
 
 ---------------
 
